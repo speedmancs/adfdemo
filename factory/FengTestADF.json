@@ -1,0 +1,9 @@
+{
+	"name": "FengTestADF",
+	"location": "westus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "e3b0d3be-d7d6-4c9d-9f2a-8244552b9939",
+		"tenantId": "a94feb83-77ab-415a-b60b-17440111a560"
+	}
+}
